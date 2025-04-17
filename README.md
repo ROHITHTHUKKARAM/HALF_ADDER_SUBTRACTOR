@@ -78,3 +78,4 @@ endmodule
 ![image-2](https://github.com/sakamalesh/HALF_ADDER_SUBTRACTOR/assets/149148235/0156f28b-f8a2-45a6-9cf8-e88e70ec33f0)
 
 **Result:**
+The code is excecuted successfully.
